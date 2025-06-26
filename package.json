@@ -1,0 +1,23 @@
+{
+  "name": "webdriver_io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hitasvi Patel",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/chai": "^5.2.2",
+    "@wdio/allure-reporter": "^9.15.0",
+    "@wdio/cli": "^9.15.0",
+    "@wdio/cucumber-framework": "^9.15.0",
+    "@wdio/local-runner": "^9.15.0",
+    "@wdio/sauce-service": "^9.15.0",
+    "@wdio/spec-reporter": "^9.15.0",
+    "@wdio/visual-service": "^8.0.4",
+    "chai": "^5.2.0"
+  }
+}
